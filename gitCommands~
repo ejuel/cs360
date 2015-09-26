@@ -3,6 +3,7 @@ snapshots of repository
 git status											// Lists changes that haven't been updated
 git fetch
 git add/rm <file/dir>								// used to add or remove file/dir from database
+// ex: git add . -A									// adds everything in the current working dir. Usefull if changes listed in 'git status'
 git commit
 git push											// Changes local data
 git rebase <branch_name>

@@ -1,0 +1,29 @@
+[33mcommit 85fde3f95af2a3928f087fd69d5d456d1183af46[m
+Author: zeke225 <ezekiel.juel@wsu.edu>
+Date:   Sat Sep 26 14:08:52 2015 -0700
+
+    testing git commit
+
+[33mcommit 3db98212e991a0ee72e49b20286d96ad516d31f2[m
+Author: zeke225 <ezekiel.juel@wsu.edu>
+Date:   Sat Sep 26 14:07:04 2015 -0700
+
+    Removed LibreOffice documentation of gitCommands and created new file for compatibility.
+
+[33mcommit 46a49363f83058d0ac89b598e99e2221c781fcfd[m
+Author: zeke225 <ezekiel.juel@wsu.edu>
+Date:   Sat Sep 26 13:56:05 2015 -0700
+
+    Added descriptions of lab assignments and removed duplicate lab3 code.
+
+[33mcommit 4ff0ce445238e5a9f2adbba0f43c37b7fd4aa438[m
+Author: zeke225 <ezekiel.juel@wsu.edu>
+Date:   Sat Sep 26 13:42:34 2015 -0700
+
+    Adding existing code from previous labs.
+
+[33mcommit 7327cff2b4db367ad97a002ab4272ccbf19cb716[m
+Author: zeke225 <ezekiel.juel@email.wsu.edu>
+Date:   Sat Sep 26 13:35:49 2015 -0700
+
+    Initial commit

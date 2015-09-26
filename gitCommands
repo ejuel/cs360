@@ -13,3 +13,5 @@ git reset (usually use as 'git reset –hard <branch_name>')
 git merge <branch_name>
 
 git clone https://github.com/zeke225/cs360			// Grabs code database from my cs360
+
+git log --pretty=format:"%an, %ar : %s"				// Shows history of edits to log (those messages you write when you 'git commit')
